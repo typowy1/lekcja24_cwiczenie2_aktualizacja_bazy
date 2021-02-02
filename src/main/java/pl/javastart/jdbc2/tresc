@@ -1,0 +1,11 @@
+JDBC #2 - Aktualizacja liczby mieszkańców
+Treść zadania
+
+Napisz program, który na podstawie danych od użytkownika zaktualizuje rekordy w bazie danych.
+
+Wczytaj nazwę miasta, następnie nową liczbę ludności. Wykonaj na bazie danych zapytanie, które zaktualizuje liczbę ludności we wskazanym mieście.
+
+Wyświetl liczbę rekordów, która została zaktualizowana, następnie pobierz z bazy rekordy o wskazanej nazwie miasta i wyświetl je na ekranie w celu potwierdzenia aktualizacji.
+
+https://bootcamp.javastart.pl/konto/cwiczenie/1355
+http://git.javastart.pl/rozwiazania/jdbc-2-414190231
